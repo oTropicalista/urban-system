@@ -1,0 +1,8 @@
+[app]
+NAME = pywiki
+AUTOR = oTropicalista
+GITHUB = https://github.com/oTropicalista/urban-system
+DESCRIPTION = Wkipedia in terminal with Python
+VERSION = 0.1
+
+[params]
